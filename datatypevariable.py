@@ -1,0 +1,9 @@
+a=2
+print(a)
+print(type(a))
+b=3.14
+print(b)
+print(type(b))
+c="Ali"
+print(c)
+print(type(c))
