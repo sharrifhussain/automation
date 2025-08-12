@@ -21,6 +21,7 @@ class Product():
         time.sleep(2)
         alert = Alert(self.driver)
         alert.accept()
+        alert.accept()
 
 
 
